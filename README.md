@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Xinqe
+- 👀 I’m interested in Webapp development
+- 🌱 I’m currently playing around on .net6 with react
